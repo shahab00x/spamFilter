@@ -1,0 +1,630 @@
+Delivered-To: spam.iut@gmail.com
+Received: by 10.112.25.7 with SMTP id y7csp70451lbf;
+        Sun, 5 Aug 2012 20:20:03 -0700 (PDT)
+Received: from mr.google.com ([10.224.1.72])
+        by 10.224.1.72 with SMTP id 8mr8751691qae.76.1344223202736 (num_hops = 1);
+        Sun, 05 Aug 2012 20:20:02 -0700 (PDT)
+Received: by 10.224.1.72 with SMTP id 8mr7942460qae.76.1344223202709;
+        Sun, 05 Aug 2012 20:20:02 -0700 (PDT)
+X-Forwarded-To: spam.iut@gmail.com
+X-Forwarded-For: shahab.feb.07.1988@gmail.com spam.iut@gmail.com
+Delivered-To: shahab.feb.07.1988@gmail.com
+Received: by 10.49.106.36 with SMTP id gr4csp129658qeb;
+        Sun, 5 Aug 2012 20:20:02 -0700 (PDT)
+Received: by 10.229.106.130 with SMTP id x2mr4816315qco.121.1344223201281;
+        Sun, 05 Aug 2012 20:20:01 -0700 (PDT)
+Return-Path: <bounce-mc.us4_9254985.172493-shahab.feb.07.1988=gmail.com@mail359.us2.mcsv.net>
+Received: from mail359.us2.mcsv.net (mail359.us2.mcsv.net. [173.231.184.71])
+        by mx.google.com with ESMTP id gk9si12898917qab.107.2012.08.05.20.20.01;
+        Sun, 05 Aug 2012 20:20:01 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us4_9254985.172493-shahab.feb.07.1988=gmail.com@mail359.us2.mcsv.net designates 173.231.184.71 as permitted sender) client-ip=173.231.184.71;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of bounce-mc.us4_9254985.172493-shahab.feb.07.1988=gmail.com@mail359.us2.mcsv.net designates 173.231.184.71 as permitted sender) smtp.mail=bounce-mc.us4_9254985.172493-shahab.feb.07.1988=gmail.com@mail359.us2.mcsv.net; dkim=pass header.i=newsletter=3Dgroup4deal.com@mail359.us2.mcsv.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail359.us2.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=newsletter=3Dgroup4deal.com@mail359.us2.mcsv.net;
+ bh=URPHlHJc0K53r9dV/t3WQLWC8X0=;
+ b=dbTiJNzqrfHh/pSxrjHQqVMwgzvGaxhishRX9vBhDoAnzM/LUlDyoS+KYC2JnawJkRNdPAzlnn7T
+   bV+L1kuNL37e1TwZvUWvzFWiv4oxjl0D8//H4aDSXLxBY7BfKG/eCmTOOvSK3t2RO32LV81uhwG6
+   zs7AOdQp9nFOsIrWPSQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail359.us2.mcsv.net;
+ b=e/HsId35YBbhSU+YS/09Ru88ur5v3A9xlOcCl22iNi5weu79hDZp713tWsGDb7W7xPhyXNXU7zVE
+   t9dWNorJGB7+yj78KovYn3rSqywZ7PlfjmScQTdcgQbl+HRWKk/igfayplgf3q6BYyBRflh550x9
+   ATIoCP67LRzUjTuLaZE=;
+Received: from (127.0.0.1) by mail359.us2.mcsv.net id h3sru214i1s3 for <shahab.feb.07.1988@gmail.com>; Mon, 6 Aug 2012 03:17:20 +0000 (envelope-from <bounce-mc.us4_9254985.172493-shahab.feb.07.1988=gmail.com@mail359.us2.mcsv.net>)
+Subject: =?utf-8?Q?Enjoy=20your=20Iftar=20meal=20with=20Ramadan=20Drinks=20and=20Shisha=20at=20Maxine=20Restaurant=20=2D=20Valid=20at=202=20locations=21=20...?=
+From: =?utf-8?Q?Group4Deal?= <newsletter@group4deal.com>
+Reply-To: =?utf-8?Q?Group4Deal?= <newsletter@group4deal.com>
+To: <shahab.feb.07.1988@gmail.com>
+Date: Mon, 6 Aug 2012 03:17:20 +0000
+Message-ID: <0b79782d81c2b5358a41d22ba4fa871e456.20120806031651@mail359.us2.mcsv.net>
+X-Mailer: MailChimp Mailer - **CID035ccfd7344fa871e456**
+X-Campaign: mailchimp0b79782d81c2b5358a41d22ba.035ccfd734
+X-campaignid: mailchimp0b79782d81c2b5358a41d22ba.035ccfd734
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=0b79782d81c2b5358a41d22ba&id=035ccfd734&e=4fa871e456
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-0b79782d81c2b5358a41d22ba-035ccfd734-4fa871e456@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://group4deal.us4.list-manage.com/unsubscribe?u=0b79782d81c2b5358a41d22ba&id=f85eb62d4d&e=4fa871e456&c=035ccfd734>
+Sender: "Group4Deal" <newsletter=group4deal.com@mail359.us2.mcsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_587397529"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_587397529
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Unsubscribe shahab.feb.07.1988@gmail.com from this list:
+http://group4deal.us4.list-manage.com/unsubscribe?u=3D0b79782d81c2b5358a41=
+d22ba&id=3Df85eb62d4d&e=3D4fa871e456&c=3D035ccfd734
+--_----------=_MCPart_587397529
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<center><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "ht=
+tp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http=
+://www.w3.org/1999/xhtml"><head><meta http-equiv=3D"Content-Type" content=
+=3D"text/html; charset=3Dutf-8" /><title>Group4Deal Dubai Mail Campaign</t=
+itle></head><body bgcolor=3D"#FFFFFF"><table width=3D"600" style=3D"backgr=
+ound:#FFFFFF" align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0"><tr><td><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0"><tr><td><img src=3D"http://www.group4deal.com/images/email/ema=
+il-small-top-cor.jpg" title=3D"Group4Deal" align=3D"middle" alt=3D"Group4D=
+eal" width=3D"600" height=3D"10" /></td></tr><tr><td style=3D"border-left:=
+solid 1px #D6D6D6; border-right:solid 1px #D6D6D6;"><table width=3D"100%"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td style=3D"font-fa=
+mily:Arial, Helvetica, sans-serif; font-size:12px; color:#6B6C6E; line-hei=
+ght:33px; padding-bottom:5px; text-align:center;">If you can not read this=
+ email, you can view it by going <a href=3D"http://group4deal.us4.list-man=
+age.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3Dca57ba4c73&e=3D=
+4fa871e456" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px=
+; font-weight:normal; color:#EE9E3F;">here.</a><br />To be sure to receive=
+ our Emails, add the Email address a <a href=3D"mailto:newsletter@group4de=
+al.com" target=3D"_blank" style=3D"text-decoration: none; color: #EE9E3F;"=
+>newsletter@group4deal.com</a> to your address book</td></tr><tr><td backg=
+round=3D"http://www.group4deal.com/images/email/hr-line.jpg" style=3D"back=
+ground-repeat:repeat-x;"><img src=3D"http://www.group4deal.com/images/emai=
+l/hr-line.jpg" alt=3D"Group4Deal" width=3D"1" height=3D"1" /></td></tr><tr=
+><td style=3D"padding-top:10px;"><table width=3D"94%" border=3D"0" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0"><tr><td width=3D"1%" valig=
+n=3D"top"><a href=3D"http://group4deal.us4.list-manage.com/track/click?u=
+=3D0b79782d81c2b5358a41d22ba&id=3De2904f632f&e=3D4fa871e456"><img src=3D"=
+http://www.group4deal.com/images/email/email-logo.jpg" alt=3D"Group4Deal"=
+ border=3D"0" width=3D"141" height=3D"65" /></a></td><td width=3D"99%" val=
+ign=3D"top"><table width=3D"98%" border=3D"0" align=3D"right" cellpadding=
+=3D"0" cellspacing=3D"0"><tr><td width=3D"65%" style=3D"padding-top:20px;"=
+><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><t=
+r><td style=3D"font-weight:normal; font-size:25px; color:#993302; font-fam=
+ily:Arial, Helvetica, sans-serif;">Dubai</td></tr></table></td><td width=
+=3D"35%"><table width=3D"60%" border=3D"0" align=3D"right" cellpadding=3D"=
+0" cellspacing=3D"0"><tr><td align=3D"center" style=3D"font-family:Arial,=
+ Helvetica, sans-serif; font-size:12px; font-weight:bold; color:#6B6C6E;">=
+Monday, August 6th, 2012</td></tr><tr></tr><tr><td align=3D"right" style=
+=3D"padding-top:10px;"><a href=3D"http://group4deal.us4.list-manage1.com/t=
+rack/click?u=3D0b79782d81c2b5358a41d22ba&id=3D839f7231c3&e=3D4fa871e456">=
+<img src=3D"http://www.group4deal.com/images/email/see-all-button.jpg" alt=
+=3D"Group4Deal all deal" border=3D"0" width=3D"133" height=3D"38" /></a></=
+td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td>&nbs=
+p;</td></tr><tr><td height=3D"37" align=3D"center" bgcolor=3D"#D3D3D3" sty=
+le=3D"font-family:Arial, Helvetica, sans-serif; font-size:22px; color:#6B6=
+C6E;"><div style=3D"position:relative; float:left;"><div style=3D"position=
+:absolute; width:12px; height:48px; background:url(http://www.group4deal.c=
+om/images/email/email-bar-left-cor.jpg) no-repeat; left:-12px; top:-6px;">=
+&nbsp;</div></div>New offers<div style=3D"position:relative; float:right;"=
+><div style=3D"position:absolute; width:12px; height:48px; background:url(=
+http://www.group4deal.com/images/email/email-bar-right-cor.jpg) no-repeat;=
+ left:0px; top:-6px; *top:-31px;">&nbsp;</div></div></td></tr><tr><td heig=
+ht=3D"37" style=3D"padding-top:15px;"><table width=3D"570" border=3D"0" al=
+ign=3D"center" cellpadding=3D"0" cellspacing=3D"0"><tr><td height=3D"45" a=
+lign=3D"center" bgcolor=3D"#4A494E" style=3D"font-family:Arial, Helvetica,=
+ sans-serif; font-size:15px; font-weight:normal; color:#FFFFFF;">Enjoy you=
+r Iftar meal with Ramadan Drinks and Shisha at Maxine Restaurant - Valid a=
+t 2 locations!</td></tr><tr><td><a href=3D"http://group4deal.us4.list-mana=
+ge.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D25bfb99df6&e=3D=
+4fa871e456"><img src=3D"http://www.group4deal.com/products/b/213.jpg" alt=3D"E=
+njoy your Iftar meal with Ramadan Drinks and Shisha at Maxine Restaurant -=
+ Valid at 2 locations!" border=3D"0" width=3D"570" height=3D"378" /></a></=
+td></tr><tr><td valign=3D"top" bgcolor=3D"#4A494E" style=3D"padding:15px 0=
+px;"><table width=3D"97%" border=3D"0" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0"><tr><td width=3D"97%" style=3D"padding-right:7px"><tabl=
+e width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td=
+ style=3D"font-family:Arial, Helvetica, sans-serif; font-size:20px; font-w=
+eight:normal; color:#EE9E3F;">Maxine Restaurant</td></tr><tr><td style=3D"=
+font-family:Arial, Helvetica, sans-serif; font-size:15px; font-weight:norm=
+al; color:#FFFFFF; padding-top:7px;">Enjoy your Iftar meal with Ramadan Dr=
+inks and Shisha at Maxine Restaurant - Valid at 2 locations!</td></tr></ta=
+ble></td><td width=3D"3%"><a href=3D"http://group4deal.us4.list-manage.com=
+/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D884c7d3497&e=3D4fa871e456=
+"><img src=3D"http://www.group4deal.com/images/email/go-to-store-button.jp=
+g" alt=3D"Group4Deal" border=3D"0" width=3D"135" height=3D"38" /></a></td>=
+</tr></table></td></tr></table></td></tr><tr><td>&nbsp;</td></tr><tr><td h=
+eight=3D"37" align=3D"center" bgcolor=3D"#D3D3D3" style=3D"font-family:Ari=
+al, Helvetica, sans-serif; font-size:22px; color:#6B6C6E;"><div style=3D"p=
+osition:relative; float:left;"><div style=3D"position:absolute; width:12px=
+; height:48px; background:url(http://www.group4deal.com/images/email/email=
+-bar-left-cor.jpg) no-repeat; left:-12px; top:-6px;">&nbsp;</div></div>Sid=
+e Deals<div style=3D"position:relative; float:right;"><div style=3D"positi=
+on:absolute; width:12px; height:48px; background:url(http://www.group4deal=
+=2Ecom/images/email/email-bar-right-cor.jpg) no-repeat; left:0px; top:-6px;=
+ *top:-31px;">&nbsp;</div></div></td></tr><tr><td>&nbsp;</td></tr><tr><td=
+ valign=3D"top"><div style=3D"width:570px; margin-left:14px;"><div style=
+=3D"width:280px; float:left; margin-right:5px; margin-bottom:10px;"><div s=
+tyle=3D"border:solid 1px #D6D6D6; height:310px; overflow:hidden;"> <a href=
+=3D"http://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b535=
+8a41d22ba&id=3Dadeb674d92&e=3D4fa871e456"><img src=3D"http://www.group4de=
+al.com/products/b/149.jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hs=
+pace=3D"4" width=3D"270" height=3D"140" /></a><p style=3D"font-family:Aria=
+l, Helvetica, sans-serif; font-size:12px; color:#6B6C6E; margin:7px 10px;=
+ line-height:20px;">Gentlemen, Pamper yourself with Haircut, Hair Musk, Bl=
+ow Dry, Shaving and Manicure</p><p align=3D"right" style=3D"padding-right:=
+5px; padding-bottom:5px;"><a href=3D"http://group4deal.us4.list-manage.com=
+/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3Da62d93b001&e=3D4fa871e456=
+"><img src=3D"http://www.group4deal.com/images/email/small-view-btn.jpg" a=
+lt=3D"Group4Deal" border=3D"0" width=3D"102" height=3D"32" /></a></p></div=
+></div><div style=3D"width:280px; float:right; margin-left:5px; margin-bot=
+tom:10px;"><div style=3D"border:solid 1px #D6D6D6; height:310px; overflow:=
+hidden;"> <a href=3D"http://group4deal.us4.list-manage1.com/track/click?u=
+=3D0b79782d81c2b5358a41d22ba&id=3D6cda3dfec7&e=3D4fa871e456"><img src=3D"=
+http://www.group4deal.com/products/b/154.jpg" alt=3D"Group4Deal" border=3D=
+"0" vspace=3D"4" hspace=3D"4" width=3D"270" height=3D"140" /></a><p style=
+=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#6B6C6=
+E; margin:7px 10px; line-height:20px;">Car detailing package with 3 Step P=
+aint Polish, Alloy/Rim, Tyre Polish, Headlight Deoxidization, Engine Bay C=
+lean & Degreasing, Glass Clean & Interior Dry Clean for 219 AED</p><p alig=
+n=3D"right" style=3D"padding-right:5px; padding-bottom:5px;"><a href=3D"ht=
+tp://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d2=
+2ba&id=3Dba37318ced&e=3D4fa871e456"><img src=3D"http://www.group4deal.com=
+/images/email/small-view-btn.jpg" alt=3D"Group4Deal" border=3D"0" width=3D=
+"102" height=3D"32" /></a></p></div></div><div style=3D"width:280px; float=
+:left; margin-right:5px; margin-bottom:10px;"><div style=3D"border:solid 1=
+px #D6D6D6; height:310px; overflow:hidden;"> <a href=3D"http://group4deal.=
+us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3Da5c05bd=
+bd0&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/products/b/157.=
+jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D"4" width=3D"27=
+0" height=3D"140" /></a><p style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:12px; color:#6B6C6E; margin:7px 10px; line-height:20px;">Sel=
+ect any 5 services for just 99 AED including free eyebrow and upper lip th=
+reading and 50% discount on any other services!!</p><p align=3D"right" sty=
+le=3D"padding-right:5px; padding-bottom:5px;"><a href=3D"http://group4deal=
+=2Eus4.list-manage2.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D7706f=
+e9ae6&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/images/email/=
+small-view-btn.jpg" alt=3D"Group4Deal" border=3D"0" width=3D"102" height=
+=3D"32" /></a></p></div></div><div style=3D"width:280px; float:right; marg=
+in-left:5px; margin-bottom:10px;"><div style=3D"border:solid 1px #D6D6D6;=
+ height:310px; overflow:hidden;"> <a href=3D"http://group4deal.us4.list-ma=
+nage1.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D2993ec04fc&e=3D=
+4fa871e456"><img src=3D"http://www.group4deal.com/products/b/160.jpg" alt=
+=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D"4" width=3D"270" heigh=
+t=3D"140" /></a><p style=3D"font-family:Arial, Helvetica, sans-serif; font=
+-size:12px; color:#6B6C6E; margin:7px 10px; line-height:20px;">Get a denta=
+l check-up including scaling and polishing at Dr Ehab's dental Clinic</p><=
+p align=3D"right" style=3D"padding-right:5px; padding-bottom:5px;"><a href=
+=3D"http://group4deal.us4.list-manage2.com/track/click?u=3D0b79782d81c2b53=
+58a41d22ba&id=3D865ba57a86&e=3D4fa871e456"><img src=3D"http://www.group4d=
+eal.com/images/email/small-view-btn.jpg" alt=3D"Group4Deal" border=3D"0" w=
+idth=3D"102" height=3D"32" /></a></p></div></div><div style=3D"width:280px=
+; float:left; margin-right:5px; margin-bottom:10px;"><div style=3D"border:=
+solid 1px #D6D6D6; height:310px; overflow:hidden;"> <a href=3D"http://grou=
+p4deal.us4.list-manage1.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=
+=3Da778ce182c&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/produ=
+cts/b/169.jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D"4" w=
+idth=3D"270" height=3D"140" /></a><p style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-size:12px; color:#6B6C6E; margin:7px 10px; line-height:=
+20px;">Crack it easy this Ramadan with our special Ez Egg cracker includin=
+g the separator!!</p><p align=3D"right" style=3D"padding-right:5px; paddin=
+g-bottom:5px;"><a href=3D"http://group4deal.us4.list-manage.com/track/clic=
+k?u=3D0b79782d81c2b5358a41d22ba&id=3D6e09f50e1a&e=3D4fa871e456"><img src=
+=3D"http://www.group4deal.com/images/email/small-view-btn.jpg" alt=3D"Grou=
+p4Deal" border=3D"0" width=3D"102" height=3D"32" /></a></p></div></div><di=
+v style=3D"width:280px; float:right; margin-left:5px; margin-bottom:10px;"=
+><div style=3D"border:solid 1px #D6D6D6; height:310px; overflow:hidden;">=
+ <a href=3D"http://group4deal.us4.list-manage1.com/track/click?u=3D0b79782=
+d81c2b5358a41d22ba&id=3D9b2d80f221&e=3D4fa871e456"><img src=3D"http://www=
+=2Egroup4deal.com/products/b/171.jpg" alt=3D"Group4Deal" border=3D"0" vspace=
+=3D"4" hspace=3D"4" width=3D"270" height=3D"140" /></a><p style=3D"font-fa=
+mily:Arial, Helvetica, sans-serif; font-size:12px; color:#6B6C6E; margin:7=
+px 10px; line-height:20px;">Full set of nail extensions (Acrylic or Gel) i=
+n any color with express Pedicure!!</p><p align=3D"right" style=3D"padding=
+-right:5px; padding-bottom:5px;"><a href=3D"http://group4deal.us4.list-man=
+age.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D35f22cea22&e=3D=
+4fa871e456"><img src=3D"http://www.group4deal.com/images/email/small-view-btn=
+=2Ejpg" alt=3D"Group4Deal" border=3D"0" width=3D"102" height=3D"32" /></a></=
+p></div></div><div style=3D"width:280px; float:left; margin-right:5px; mar=
+gin-bottom:10px;"><div style=3D"border:solid 1px #D6D6D6; height:310px; ov=
+erflow:hidden;"> <a href=3D"http://group4deal.us4.list-manage.com/track/cl=
+ick?u=3D0b79782d81c2b5358a41d22ba&id=3D295ba86869&e=3D4fa871e456"><img sr=
+c=3D"http://www.group4deal.com/products/b/172.jpg" alt=3D"Group4Deal" bord=
+er=3D"0" vspace=3D"4" hspace=3D"4" width=3D"270" height=3D"140" /></a><p s=
+tyle=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#6=
+B6C6E; margin:7px 10px; line-height:20px;">Give skin a vibrant glow! Nouri=
+shing Facial plus neck and shoulder massage</p><p align=3D"right" style=3D=
+"padding-right:5px; padding-bottom:5px;"><a href=3D"http://group4deal.us4.=
+list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D43b6459003&=
+e=3D4fa871e456"><img src=3D"http://www.group4deal.com/images/email/small-=
+view-btn.jpg" alt=3D"Group4Deal" border=3D"0" width=3D"102" height=3D"32"=
+ /></a></p></div></div><div style=3D"width:280px; float:right; margin-left=
+:5px; margin-bottom:10px;"><div style=3D"border:solid 1px #D6D6D6; height:=
+310px; overflow:hidden;"> <a href=3D"http://group4deal.us4.list-manage.com=
+/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3Daeaa3ec080&e=3D4fa871e456=
+"><img src=3D"http://www.group4deal.com/products/b/174.jpg" alt=3D"Group4D=
+eal" border=3D"0" vspace=3D"4" hspace=3D"4" width=3D"270" height=3D"140" /=
+></a><p style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px;=
+ color:#6B6C6E; margin:7px 10px; line-height:20px;">Treat yourself with 30=
+-Minutes full body massage with hair treatment, facial and bikini waxing f=
+rom Ava Salon</p><p align=3D"right" style=3D"padding-right:5px; padding-bo=
+ttom:5px;"><a href=3D"http://group4deal.us4.list-manage.com/track/click?u=
+=3D0b79782d81c2b5358a41d22ba&id=3Dad970d9362&e=3D4fa871e456"><img src=3D"=
+http://www.group4deal.com/images/email/small-view-btn.jpg" alt=3D"Group4De=
+al" border=3D"0" width=3D"102" height=3D"32" /></a></p></div></div><div st=
+yle=3D"width:280px; float:left; margin-right:5px; margin-bottom:10px;"><di=
+v style=3D"border:solid 1px #D6D6D6; height:310px; overflow:hidden;"> <a h=
+ref=3D"http://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b=
+5358a41d22ba&id=3D3fa2855758&e=3D4fa871e456"><img src=3D"http://www.group=
+4deal.com/products/b/175.jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4"=
+ hspace=3D"4" width=3D"270" height=3D"140" /></a><p style=3D"font-family:A=
+rial, Helvetica, sans-serif; font-size:12px; color:#6B6C6E; margin:7px 10p=
+x; line-height:20px;">Type comfortably with a wireless Bluetooth keyboard=
+ for your iPad 1, 2 or 3</p><p align=3D"right" style=3D"padding-right:5px;=
+ padding-bottom:5px;"><a href=3D"http://group4deal.us4.list-manage.com/tra=
+ck/click?u=3D0b79782d81c2b5358a41d22ba&id=3Da338d74887&e=3D4fa871e456"><i=
+mg src=3D"http://www.group4deal.com/images/email/small-view-btn.jpg" alt=
+=3D"Group4Deal" border=3D"0" width=3D"102" height=3D"32" /></a></p></div><=
+/div><div style=3D"width:280px; float:right; margin-left:5px; margin-botto=
+m:10px;"><div style=3D"border:solid 1px #D6D6D6; height:310px; overflow:hi=
+dden;"> <a href=3D"http://group4deal.us4.list-manage.com/track/click?u=3D0=
+b79782d81c2b5358a41d22ba&id=3D1cff342f08&e=3D4fa871e456"><img src=3D"http=
+://www.group4deal.com/products/b/176.jpg" alt=3D"Group4Deal" border=3D"0"=
+ vspace=3D"4" hspace=3D"4" width=3D"270" height=3D"140" /></a><p style=3D"=
+font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#6B6C6E; m=
+argin:7px 10px; line-height:20px;">Luxury and beautiful 24 Karat Pure Gold=
+ Iphone 4S Case from Jamil Pure Gold</p><p align=3D"right" style=3D"paddin=
+g-right:5px; padding-bottom:5px;"><a href=3D"http://group4deal.us4.list-ma=
+nage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D3efb337131&e=3D=
+4fa871e456"><img src=3D"http://www.group4deal.com/images/email/small-view-bt=
+n.jpg" alt=3D"Group4Deal" border=3D"0" width=3D"102" height=3D"32" /></a><=
+/p></div></div><div style=3D"width:280px; float:left; margin-right:5px; ma=
+rgin-bottom:10px;"><div style=3D"border:solid 1px #D6D6D6; height:310px; o=
+verflow:hidden;"> <a href=3D"http://group4deal.us4.list-manage1.com/track/=
+click?u=3D0b79782d81c2b5358a41d22ba&id=3D6071883be2&e=3D4fa871e456"><img=
+ src=3D"http://www.group4deal.com/products/b/179.jpg" alt=3D"Group4Deal" b=
+order=3D"0" vspace=3D"4" hspace=3D"4" width=3D"270" height=3D"140" /></a><=
+p style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; color=
+:#6B6C6E; margin:7px 10px; line-height:20px;">Bask in feminine glory with=
+ Moroccan Bath, Spa Manicure, Express facial, Eyebrow and Upper lip thread=
+ing</p><p align=3D"right" style=3D"padding-right:5px; padding-bottom:5px;"=
+><a href=3D"http://group4deal.us4.list-manage.com/track/click?u=3D0b79782d=
+81c2b5358a41d22ba&id=3Dada3702e76&e=3D4fa871e456"><img src=3D"http://www.=
+group4deal.com/images/email/small-view-btn.jpg" alt=3D"Group4Deal" border=
+=3D"0" width=3D"102" height=3D"32" /></a></p></div></div><div style=3D"wid=
+th:280px; float:right; margin-left:5px; margin-bottom:10px;"><div style=3D=
+"border:solid 1px #D6D6D6; height:310px; overflow:hidden;"> <a href=3D"htt=
+p://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22=
+ba&id=3D834af36744&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/=
+products/b/181.jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D=
+"4" width=3D"270" height=3D"140" /></a><p style=3D"font-family:Arial, Helv=
+etica, sans-serif; font-size:12px; color:#6B6C6E; margin:7px 10px; line-he=
+ight:20px;">1 hour Moroccan Bath including facial and haircut for men</p><=
+p align=3D"right" style=3D"padding-right:5px; padding-bottom:5px;"><a href=
+=3D"http://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b535=
+8a41d22ba&id=3Dbe99bbce4f&e=3D4fa871e456"><img src=3D"http://www.group4de=
+al.com/images/email/small-view-btn.jpg" alt=3D"Group4Deal" border=3D"0" wi=
+dth=3D"102" height=3D"32" /></a></p></div></div><div style=3D"width:280px;=
+ float:left; margin-right:5px; margin-bottom:10px;"><div style=3D"border:s=
+olid 1px #D6D6D6; height:310px; overflow:hidden;"> <a href=3D"http://group=
+4deal.us4.list-manage2.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D=
+4be7e6754b&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/products=
+/b/182.jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D"4" widt=
+h=3D"270" height=3D"140" /></a><p style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:12px; color:#6B6C6E; margin:7px 10px; line-height:20p=
+x;">No more mess!! Reclaim your trunk with a handy folding car organiser</=
+p><p align=3D"right" style=3D"padding-right:5px; padding-bottom:5px;"><a h=
+ref=3D"http://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b=
+5358a41d22ba&id=3D372c949180&e=3D4fa871e456"><img src=3D"http://www.group=
+4deal.com/images/email/small-view-btn.jpg" alt=3D"Group4Deal" border=3D"0"=
+ width=3D"102" height=3D"32" /></a></p></div></div><div style=3D"width:280=
+px; float:right; margin-left:5px; margin-bottom:10px;"><div style=3D"borde=
+r:solid 1px #D6D6D6; height:310px; overflow:hidden;"> <a href=3D"http://gr=
+oup4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=
+=3Db764bf3be7&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/produ=
+cts/b/183.jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D"4" w=
+idth=3D"270" height=3D"140" /></a><p style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-size:12px; color:#6B6C6E; margin:7px 10px; line-height:=
+20px;">Escape the scorching summer sun with a trip to Milano, Italy for 3=
+ or 4 nights</p><p align=3D"right" style=3D"padding-right:5px; padding-bot=
+tom:5px;"><a href=3D"http://group4deal.us4.list-manage1.com/track/click?u=
+=3D0b79782d81c2b5358a41d22ba&id=3D07ea96b385&e=3D4fa871e456"><img src=3D"=
+http://www.group4deal.com/images/email/small-view-btn.jpg" alt=3D"Group4De=
+al" border=3D"0" width=3D"102" height=3D"32" /></a></p></div></div><div st=
+yle=3D"width:280px; float:left; margin-right:5px; margin-bottom:10px;"><di=
+v style=3D"border:solid 1px #D6D6D6; height:310px; overflow:hidden;"> <a h=
+ref=3D"http://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b=
+5358a41d22ba&id=3D3783542b9e&e=3D4fa871e456"><img src=3D"http://www.group=
+4deal.com/products/b/188.jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4"=
+ hspace=3D"4" width=3D"270" height=3D"140" /></a><p style=3D"font-family:A=
+rial, Helvetica, sans-serif; font-size:12px; color:#6B6C6E; margin:7px 10p=
+x; line-height:20px;">One night stay for two at Barracuda Resort includes=
+ Dinner or 2 tickets to Dreamland Aqua park</p><p align=3D"right" style=3D=
+"padding-right:5px; padding-bottom:5px;"><a href=3D"http://group4deal.us4.=
+list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3Ddda45eb5bb&=
+e=3D4fa871e456"><img src=3D"http://www.group4deal.com/images/email/small-=
+view-btn.jpg" alt=3D"Group4Deal" border=3D"0" width=3D"102" height=3D"32"=
+ /></a></p></div></div><div style=3D"width:280px; float:right; margin-left=
+:5px; margin-bottom:10px;"><div style=3D"border:solid 1px #D6D6D6; height:=
+310px; overflow:hidden;"> <a href=3D"http://group4deal.us4.list-manage1.co=
+m/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D2bb5df0ace&e=3D=
+4fa871e456"><img src=3D"http://www.group4deal.com/products/b/192.jpg" alt=3D"Group4=
+Deal" border=3D"0" vspace=3D"4" hspace=3D"4" width=3D"270" height=3D"140"=
+ /></a><p style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12p=
+x; color:#6B6C6E; margin:7px 10px; line-height:20px;">Share your thoughts=
+ Give thanks- donate an Iftar meal to a hardworking labourers during the m=
+onth of mercy, Ramadan!!</p><p align=3D"right" style=3D"padding-right:5px;=
+ padding-bottom:5px;"><a href=3D"http://group4deal.us4.list-manage2.com/tr=
+ack/click?u=3D0b79782d81c2b5358a41d22ba&id=3Db5d9823367&e=3D4fa871e456"><=
+img src=3D"http://www.group4deal.com/images/email/small-view-btn.jpg" alt=
+=3D"Group4Deal" border=3D"0" width=3D"102" height=3D"32" /></a></p></div><=
+/div><div style=3D"width:280px; float:left; margin-right:5px; margin-botto=
+m:10px;"><div style=3D"border:solid 1px #D6D6D6; height:310px; overflow:hi=
+dden;"> <a href=3D"http://group4deal.us4.list-manage.com/track/click?u=3D0=
+b79782d81c2b5358a41d22ba&id=3Df4c9549cb7&e=3D4fa871e456"><img src=3D"http=
+://www.group4deal.com/products/b/203.jpg" alt=3D"Group4Deal" border=3D"0"=
+ vspace=3D"4" hspace=3D"4" width=3D"270" height=3D"140" /></a><p style=3D"=
+font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#6B6C6E; m=
+argin:7px 10px; line-height:20px;">Enjoy unlimited food and drinks at Dune=
+s Delights' Iftar Buffet</p><p align=3D"right" style=3D"padding-right:5px;=
+ padding-bottom:5px;"><a href=3D"http://group4deal.us4.list-manage2.com/tr=
+ack/click?u=3D0b79782d81c2b5358a41d22ba&id=3Dfc76030236&e=3D4fa871e456"><=
+img src=3D"http://www.group4deal.com/images/email/small-view-btn.jpg" alt=
+=3D"Group4Deal" border=3D"0" width=3D"102" height=3D"32" /></a></p></div><=
+/div><div style=3D"width:280px; float:right; margin-left:5px; margin-botto=
+m:10px;"><div style=3D"border:solid 1px #D6D6D6; height:310px; overflow:hi=
+dden;"> <a href=3D"http://group4deal.us4.list-manage1.com/track/click?u=3D=
+0b79782d81c2b5358a41d22ba&id=3D66757abbf1&e=3D4fa871e456"><img src=3D"htt=
+p://www.group4deal.com/products/b/204.jpg" alt=3D"Group4Deal" border=3D"0"=
+ vspace=3D"4" hspace=3D"4" width=3D"270" height=3D"140" /></a><p style=3D"=
+font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#6B6C6E; m=
+argin:7px 10px; line-height:20px;">Savour The Taste Of Contemporary Cuisin=
+es and Delicacies At Fortune Hotels' Restaurant Iftar Buffet</p><p align=
+=3D"right" style=3D"padding-right:5px; padding-bottom:5px;"><a href=3D"htt=
+p://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22=
+ba&id=3D7d29569b17&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/=
+images/email/small-view-btn.jpg" alt=3D"Group4Deal" border=3D"0" width=3D"=
+102" height=3D"32" /></a></p></div></div><div style=3D"width:280px; float:=
+left; margin-right:5px; margin-bottom:10px;"><div style=3D"border:solid 1p=
+x #D6D6D6; height:310px; overflow:hidden;"> <a href=3D"http://group4deal.u=
+s4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3Dea4e58ef=
+17&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/products/b/206.j=
+pg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D"4" width=3D"270=
+" height=3D"140" /></a><p style=3D"font-family:Arial, Helvetica, sans-seri=
+f; font-size:12px; color:#6B6C6E; margin:7px 10px; line-height:20px;">Deli=
+cious & Tasteful wide variety of Royal Iftar & Dinner delivery package</p>=
+<p align=3D"right" style=3D"padding-right:5px; padding-bottom:5px;"><a hre=
+f=3D"http://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b53=
+58a41d22ba&id=3D5c53de6cd6&e=3D4fa871e456"><img src=3D"http://www.group4d=
+eal.com/images/email/small-view-btn.jpg" alt=3D"Group4Deal" border=3D"0" w=
+idth=3D"102" height=3D"32" /></a></p></div></div><div style=3D"width:280px=
+; float:right; margin-left:5px; margin-bottom:10px;"><div style=3D"border:=
+solid 1px #D6D6D6; height:310px; overflow:hidden;"> <a href=3D"http://grou=
+p4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D=
+d9bd510b39&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/products=
+/b/208.jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D"4" widt=
+h=3D"270" height=3D"140" /></a><p style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:12px; color:#6B6C6E; margin:7px 10px; line-height:20p=
+x;">One night stay for 2 at Pearl Hotel including Dinner and more! choose=
+ option one or two and avail 50% off</p><p align=3D"right" style=3D"paddin=
+g-right:5px; padding-bottom:5px;"><a href=3D"http://group4deal.us4.list-ma=
+nage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3Dd9ce373876&e=3D=
+4fa871e456"><img src=3D"http://www.group4deal.com/images/email/small-view-bt=
+n.jpg" alt=3D"Group4Deal" border=3D"0" width=3D"102" height=3D"32" /></a><=
+/p></div></div><div style=3D"width:280px; float:left; margin-right:5px; ma=
+rgin-bottom:10px;"><div style=3D"border:solid 1px #D6D6D6; height:310px; o=
+verflow:hidden;"> <a href=3D"http://group4deal.us4.list-manage.com/track/c=
+lick?u=3D0b79782d81c2b5358a41d22ba&id=3D12caf8d456&e=3D4fa871e456"><img s=
+rc=3D"http://www.group4deal.com/products/b/209.jpg" alt=3D"Group4Deal" bor=
+der=3D"0" vspace=3D"4" hspace=3D"4" width=3D"270" height=3D"140" /></a><p=
+ style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; color:=
+#6B6C6E; margin:7px 10px; line-height:20px;">Experience the exhilarating t=
+hrill of riding the worlds coolest Electric Skateboards</p><p align=3D"rig=
+ht" style=3D"padding-right:5px; padding-bottom:5px;"><a href=3D"http://gro=
+up4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=
+=3Dcc7dbb6fd7&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/image=
+s/email/small-view-btn.jpg" alt=3D"Group4Deal" border=3D"0" width=3D"102"=
+ height=3D"32" /></a></p></div></div><div style=3D"width:280px; float:righ=
+t; margin-left:5px; margin-bottom:10px;"><div style=3D"border:solid 1px #D=
+6D6D6; height:310px; overflow:hidden;"> <a href=3D"http://group4deal.us4.l=
+ist-manage1.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3Dafe7e3bf78&=
+e=3D4fa871e456"><img src=3D"http://www.group4deal.com/products/b/212.jpg"=
+ alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D"4" width=3D"270" h=
+eight=3D"140" /></a><p style=3D"font-family:Arial, Helvetica, sans-serif;=
+ font-size:12px; color:#6B6C6E; margin:7px 10px; line-height:20px;">Enjoy=
+ a selection of delicious dishes and house beverages at Times of Arabia So=
+uk Madinat Jumeirah and Expand your culinary senses with Arabic cuisine</p=
+><p align=3D"right" style=3D"padding-right:5px; padding-bottom:5px;"><a hr=
+ef=3D"http://group4deal.us4.list-manage2.com/track/click?u=3D0b79782d81c2b=
+5358a41d22ba&id=3D88abfd32ef&e=3D4fa871e456"><img src=3D"http://www.group=
+4deal.com/images/email/small-view-btn.jpg" alt=3D"Group4Deal" border=3D"0"=
+ width=3D"102" height=3D"32" /></a></p></div></div><div style=3D"width:280=
+px; float:left; margin-right:5px; margin-bottom:10px;"><div style=3D"borde=
+r:solid 1px #D6D6D6; height:310px; overflow:hidden;"> <a href=3D"http://gr=
+oup4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=
+=3D9a56f4710d&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/produ=
+cts/b/216.jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D"4" w=
+idth=3D"270" height=3D"140" /></a><p style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-size:12px; color:#6B6C6E; margin:7px 10px; line-height:=
+20px;">Soup, Appetizer, Daily Dish, Shisha / Dessert and Soft Drink at Cui=
+sine Libanaise Restaurant</p><p align=3D"right" style=3D"padding-right:5px=
+; padding-bottom:5px;"><a href=3D"http://group4deal.us4.list-manage1.com/t=
+rack/click?u=3D0b79782d81c2b5358a41d22ba&id=3D22b4eeaeec&e=3D4fa871e456">=
+<img src=3D"http://www.group4deal.com/images/email/small-view-btn.jpg" alt=
+=3D"Group4Deal" border=3D"0" width=3D"102" height=3D"32" /></a></p></div><=
+/div><div style=3D"width:280px; float:right; margin-left:5px; margin-botto=
+m:10px;"><div style=3D"border:solid 1px #D6D6D6; height:310px; overflow:hi=
+dden;"> <a href=3D"http://group4deal.us4.list-manage1.com/track/click?u=3D=
+0b79782d81c2b5358a41d22ba&id=3D9451c1e769&e=3D4fa871e456"><img src=3D"htt=
+p://www.group4deal.com/products/b/217.jpg" alt=3D"Group4Deal" border=3D"0"=
+ vspace=3D"4" hspace=3D"4" width=3D"270" height=3D"140" /></a><p style=3D"=
+font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#6B6C6E; m=
+argin:7px 10px; line-height:20px;">Tuck in to a delicious multicuisine Ift=
+ar buffet at Abu Ali Restaurant Includes Ramadan drinks & Shisha</p><p ali=
+gn=3D"right" style=3D"padding-right:5px; padding-bottom:5px;"><a href=3D"h=
+ttp://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d=
+22ba&id=3D7b8ffe4b1f&e=3D4fa871e456"><img src=3D"http://www.group4deal.co=
+m/images/email/small-view-btn.jpg" alt=3D"Group4Deal" border=3D"0" width=
+=3D"102" height=3D"32" /></a></p></div></div><div style=3D"width:280px; fl=
+oat:left; margin-right:5px; margin-bottom:10px;"><div style=3D"border:soli=
+d 1px #D6D6D6; height:310px; overflow:hidden;"> <a href=3D"http://group4de=
+al.us4.list-manage1.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D763=
+a716c7d&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/products/b/=
+218.jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D"4" width=
+=3D"270" height=3D"140" /></a><p style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; font-size:12px; color:#6B6C6E; margin:7px 10px; line-height:20px=
+;">Indulge in 60 minutes of Aromatherapy and Basalt stone reflexology that=
+ will blow your mind away - Choose from 2 options!</p><p align=3D"right" s=
+tyle=3D"padding-right:5px; padding-bottom:5px;"><a href=3D"http://group4de=
+al.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3Dcddb=
+ab6e98&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/images/email=
+/small-view-btn.jpg" alt=3D"Group4Deal" border=3D"0" width=3D"102" height=
+=3D"32" /></a></p></div></div><div style=3D"width:280px; float:right; marg=
+in-left:5px; margin-bottom:10px;"><div style=3D"border:solid 1px #D6D6D6;=
+ height:310px; overflow:hidden;"> <a href=3D"http://group4deal.us4.list-ma=
+nage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D2eed01137a&e=3D=
+4fa871e456"><img src=3D"http://www.group4deal.com/products/b/219.jpg" alt=3D=
+"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D"4" width=3D"270" height=
+=3D"140" /></a><p style=3D"font-family:Arial, Helvetica, sans-serif; font-=
+size:12px; color:#6B6C6E; margin:7px 10px; line-height:20px;">Ladies, Pamp=
+er yourself with Moroccan bath, haircut, Manicure and more - Choose from 2=
+ options!</p><p align=3D"right" style=3D"padding-right:5px; padding-bottom=
+:5px;"><a href=3D"http://group4deal.us4.list-manage2.com/track/click?u=3D0=
+b79782d81c2b5358a41d22ba&id=3D6aae70a4ed&e=3D4fa871e456"><img src=3D"http=
+://www.group4deal.com/images/email/small-view-btn.jpg" alt=3D"Group4Deal"=
+ border=3D"0" width=3D"102" height=3D"32" /></a></p></div></div><div style=
+=3D"width:280px; float:left; margin-right:5px; margin-bottom:10px;"><div s=
+tyle=3D"border:solid 1px #D6D6D6; height:310px; overflow:hidden;"> <a href=
+=3D"http://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b535=
+8a41d22ba&id=3Dd5b8894733&e=3D4fa871e456"><img src=3D"http://www.group4de=
+al.com/products/b/220.jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hs=
+pace=3D"4" width=3D"270" height=3D"140" /></a><p style=3D"font-family:Aria=
+l, Helvetica, sans-serif; font-size:12px; color:#6B6C6E; margin:7px 10px;=
+ line-height:20px;">Relax and enjoy the Pearl facial massage including Nec=
+k and Decollete</p><p align=3D"right" style=3D"padding-right:5px; padding-=
+bottom:5px;"><a href=3D"http://group4deal.us4.list-manage1.com/track/click=
+?u=3D0b79782d81c2b5358a41d22ba&id=3Dfd35255382&e=3D4fa871e456"><img src=
+=3D"http://www.group4deal.com/images/email/small-view-btn.jpg" alt=3D"Grou=
+p4Deal" border=3D"0" width=3D"102" height=3D"32" /></a></p></div></div><di=
+v style=3D"width:280px; float:right; margin-left:5px; margin-bottom:10px;"=
+><div style=3D"border:solid 1px #D6D6D6; height:310px; overflow:hidden;">=
+ <a href=3D"http://group4deal.us4.list-manage1.com/track/click?u=3D0b79782=
+d81c2b5358a41d22ba&id=3Dfcf6c2a8b9&e=3D4fa871e456"><img src=3D"http://www=
+=2Egroup4deal.com/products/b/221.jpg" alt=3D"Group4Deal" border=3D"0" vspace=
+=3D"4" hspace=3D"4" width=3D"270" height=3D"140" /></a><p style=3D"font-fa=
+mily:Arial, Helvetica, sans-serif; font-size:12px; color:#6B6C6E; margin:7=
+px 10px; line-height:20px;">Visit Dr. Samir=E2=80=99s Vet clinic & get a P=
+et consultation, Vaccination, Micro chipping and more - Choose from 4 opti=
+ons!!</p><p align=3D"right" style=3D"padding-right:5px; padding-bottom:5px=
+;"><a href=3D"http://group4deal.us4.list-manage.com/track/click?u=3D0b7978=
+2d81c2b5358a41d22ba&id=3Ddf3d4dc1f9&e=3D4fa871e456"><img src=3D"http://ww=
+w.group4deal.com/images/email/small-view-btn.jpg" alt=3D"Group4Deal" borde=
+r=3D"0" width=3D"102" height=3D"32" /></a></p></div></div><div style=3D"wi=
+dth:280px; float:left; margin-right:5px; margin-bottom:10px;"><div style=
+=3D"border:solid 1px #D6D6D6; height:310px; overflow:hidden;"> <a href=3D"=
+http://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41=
+d22ba&id=3D4b2699bda5&e=3D4fa871e456"><img src=3D"http://www.group4deal.c=
+om/products/b/222.jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=
+=3D"4" width=3D"270" height=3D"140" /></a><p style=3D"font-family:Arial, H=
+elvetica, sans-serif; font-size:12px; color:#6B6C6E; margin:7px 10px; line=
+-height:20px;">No time to do laundry or clean? Sit back, relax & avail of=
+ Three option - Laundry, House cleaning or Sofa cleaning!!</p><p align=3D"=
+right" style=3D"padding-right:5px; padding-bottom:5px;"><a href=3D"http://=
+group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&i=
+d=3Dd630f63666&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/imag=
+es/email/small-view-btn.jpg" alt=3D"Group4Deal" border=3D"0" width=3D"102"=
+ height=3D"32" /></a></p></div></div><div style=3D"width:280px; float:righ=
+t; margin-left:5px; margin-bottom:10px;"><div style=3D"border:solid 1px #D=
+6D6D6; height:310px; overflow:hidden;"> <a href=3D"http://group4deal.us4.l=
+ist-manage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3Db5c577e8b2&e=
+=3D4fa871e456"><img src=3D"http://www.group4deal.com/products/b/228.jpg"=
+ alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D"4" width=3D"270" h=
+eight=3D"140" /></a><p style=3D"font-family:Arial, Helvetica, sans-serif;=
+ font-size:12px; color:#6B6C6E; margin:7px 10px; line-height:20px;">Enjoy=
+ a sumptuous Iftar buffet at Koyla Lounge and Cafe featuring Starters, Mai=
+n courses Desserts & 2 Welcome drinks</p><p align=3D"right" style=3D"paddi=
+ng-right:5px; padding-bottom:5px;"><a href=3D"http://group4deal.us4.list-m=
+anage1.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D025643fa83&e=3D=
+4fa871e456"><img src=3D"http://www.group4deal.com/images/email/small-view-=
+btn.jpg" alt=3D"Group4Deal" border=3D"0" width=3D"102" height=3D"32" /></a=
+></p></div></div><div style=3D"width:280px; float:left; margin-right:5px;=
+ margin-bottom:10px;"><div style=3D"border:solid 1px #D6D6D6; height:310px=
+; overflow:hidden;"> <a href=3D"http://group4deal.us4.list-manage.com/trac=
+k/click?u=3D0b79782d81c2b5358a41d22ba&id=3D67d1f7825e&e=3D4fa871e456"><im=
+g src=3D"http://www.group4deal.com/products/b/229.jpg" alt=3D"Group4Deal"=
+ border=3D"0" vspace=3D"4" hspace=3D"4" width=3D"270" height=3D"140" /></a=
+><p style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; col=
+or:#6B6C6E; margin:7px 10px; line-height:20px;">Sumptuous Indian Iftar/din=
+ner buffet at Mezbaan Hyderabad Restaurant - Available at 2 locations</p><=
+p align=3D"right" style=3D"padding-right:5px; padding-bottom:5px;"><a href=
+=3D"http://group4deal.us4.list-manage1.com/track/click?u=3D0b79782d81c2b53=
+58a41d22ba&id=3De4fc0790bb&e=3D4fa871e456"><img src=3D"http://www.group4d=
+eal.com/images/email/small-view-btn.jpg" alt=3D"Group4Deal" border=3D"0" w=
+idth=3D"102" height=3D"32" /></a></p></div></div><div style=3D"width:280px=
+; float:right; margin-left:5px; margin-bottom:10px;"><div style=3D"border:=
+solid 1px #D6D6D6; height:310px; overflow:hidden;"> <a href=3D"http://grou=
+p4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D=
+dd326eff53&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/products=
+/b/232.jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D"4" widt=
+h=3D"270" height=3D"140" /></a><p style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:12px; color:#6B6C6E; margin:7px 10px; line-height:20p=
+x;">A delicious all you can eat Iftar / Dinner Includes Soup, Dates, Snack=
+s, Salads, Veg, Non-veg, Rice, Sweets and Ramadan special Sharbat!!</p><p=
+ align=3D"right" style=3D"padding-right:5px; padding-bottom:5px;"><a href=
+=3D"http://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b535=
+8a41d22ba&id=3Dfdcda8606a&e=3D4fa871e456"><img src=3D"http://www.group4de=
+al.com/images/email/small-view-btn.jpg" alt=3D"Group4Deal" border=3D"0" wi=
+dth=3D"102" height=3D"32" /></a></p></div></div><div style=3D"width:280px;=
+ float:left; margin-right:5px; margin-bottom:10px;"><div style=3D"border:s=
+olid 1px #D6D6D6; height:310px; overflow:hidden;"> <a href=3D"http://group=
+4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3D8=
+a0a03e605&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/products/=
+b/233.jpg" alt=3D"Group4Deal" border=3D"0" vspace=3D"4" hspace=3D"4" width=
+=3D"270" height=3D"140" /></a><p style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; font-size:12px; color:#6B6C6E; margin:7px 10px; line-height:20px=
+;">Get chance to perform Dubai biggest DANCE SHOW. Choose the dance style=
+  and enjoy 16 days dance workshop!</p><p align=3D"right" style=3D"padding=
+-right:5px; padding-bottom:5px;"><a href=3D"http://group4deal.us4.list-man=
+age.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3Dc84a614cac&e=3D=
+4fa871e456"><img src=3D"http://www.group4deal.com/images/email/small-view-btn=
+=2Ejpg" alt=3D"Group4Deal" border=3D"0" width=3D"102" height=3D"32" /></a></=
+p></div></div></div></td></tr><tr><td style=3D"padding-top:12px;"><table w=
+idth=3D"90%" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=
+=3D"0"><tr><td align=3D"center" style=3D"font-family:Arial, Helvetica, san=
+s-serif; font-size:20px; color:#000000;">Follow Us</td></tr><tr><td align=
+=3D"center" style=3D"padding:7px 0px;"><table width=3D"15%" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0"><tr><td align=3D"center"><a href=3D"htt=
+p://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22=
+ba&id=3D03e6c1661e&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/=
+images/email/email-facebook.jpg" alt=3D"Group4Deal facebook" border=3D"0"=
+ width=3D"32" height=3D"32" /></a></td><td align=3D"center"><a href=3D"htt=
+p://group4deal.us4.list-manage.com/track/click?u=3D0b79782d81c2b5358a41d22=
+ba&id=3D2b45f93415&e=3D4fa871e456"><img src=3D"http://www.group4deal.com/=
+images/email/email-twitter.jpg" alt=3D"Group4Deal twitter" border=3D"0" wi=
+dth=3D"32" height=3D"32" /></a></td></tr></table></td></tr></table></td></=
+tr></table></td></tr><tr><td><img src=3D"http://www.group4deal.com/images/=
+email/email-small-bottom-cor.jpg" title=3D"Group4Deal" align=3D"top" alt=
+=3D"Group4Deal" width=3D"600" height=3D"10" /></td></tr></table></td></tr>=
+<tr><td>&nbsp;</td></tr><tr><td style=3D"font-family:Arial, Helvetica, san=
+s-serif; font-size:11px; color:#000000; line-height:20px; text-align:cente=
+r"><a href=3D"http://group4deal.us4.list-manage.com/unsubscribe?u=3D0b7978=
+2d81c2b5358a41d22ba&id=3Df85eb62d4d&e=3D4fa871e456&c=3D035ccfd734">&nbsp;</a=
+>You are subscribed to the newsletter of Group4Deal, Dubai with the Email=
+ address: shahab.feb.07.1988@gmail.com<br />You can <a href=3D"http://group4deal.us4.l=
+ist-manage1.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3Da09c830f58&=
+e=3D4fa871e456" style=3D"font-family:Arial, Helvetica, sans-serif; font-s=
+ize:11px; color:#2266BA;">unsubscribe</a> from this newsletter at any time=
+=2E<br /><span style=3D"font-family:Arial, Helvetica, sans-serif; font-size:=
+11px; color:#999999;">Delivered by <a href=3D"http://group4deal.us4.list-m=
+anage2.com/track/click?u=3D0b79782d81c2b5358a41d22ba&id=3Da72eca82fd&e=3D=
+4fa871e456" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:1=
+1px; color:#2266BA;">Group4Deal</a> </span></td></tr></table><img src=3D"h=
+ttp://group4deal.us4.list-manage.com/track/open.php?u=3D0b79782d81c2b5358a=
+41d22ba&id=3D035ccfd734&e=3D4fa871e456" height=3D"1" width=3D"1">
+--_----------=_MCPart_587397529--

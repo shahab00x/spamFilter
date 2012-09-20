@@ -1,0 +1,241 @@
+Delivered-To: spam.iut@gmail.com
+Received: by 10.68.17.99 with SMTP id n3cs64455pbd;
+        Sat, 28 Jan 2012 02:08:02 -0800 (PST)
+Return-Path: <3AMkjTw8KCJ8OQHU9BX-MNQDOKXFNNFKD.BNLRO9L.HTSFL9HK.BNL@privacy-notifications.bounces.google.com>
+Received-SPF: pass (google.com: domain of 3AMkjTw8KCJ8OQHU9BX-MNQDOKXFNNFKD.BNLRO9L.HTSFL9HK.BNL@privacy-notifications.bounces.google.com designates 10.182.16.103 as permitted sender) client-ip=10.182.16.103;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of 3AMkjTw8KCJ8OQHU9BX-MNQDOKXFNNFKD.BNLRO9L.HTSFL9HK.BNL@privacy-notifications.bounces.google.com designates 10.182.16.103 as permitted sender) smtp.mail=3AMkjTw8KCJ8OQHU9BX-MNQDOKXFNNFKD.BNLRO9L.HTSFL9HK.BNL@privacy-notifications.bounces.google.com; dkim=pass header.i=3AMkjTw8KCJ8OQHU9BX-MNQDOKXFNNFKD.BNLRO9L.HTSFL9HK.BNL@privacy-notifications.bounces.google.com
+Received: from mr.google.com ([10.182.16.103])
+        by 10.182.16.103 with SMTP id f7mr22302606obd.51.1327745281700 (num_hops = 1);
+        Sat, 28 Jan 2012 02:08:01 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=gamma;
+        h=mime-version:message-id:date:subject:from:to:content-type;
+        bh=bNPO74PTVHwkfD5VjNwEUl6ZRChGh5kX7NI0LZWg0Wk=;
+        b=VtzOo0/KZ0wdGj/afYwsdmOmwN23lmPm52spvg4NvyJdZHVGI7OeogPqLHBcRNcVRM
+         /L0EWJQ6QZsMmKEZCC3HtTdhwIi5WG+m3YevnmD9taZKDYTQllFPDK92F3GnY+BDuVgq
+         ik4fUJN92vyGvoL2h0aU2gXkWpI1Y/9RvS6u4=
+MIME-Version: 1.0
+Received: by 10.182.16.103 with SMTP id f7mt22302606obd.51.1327745280188; Sat,
+ 28 Jan 2012 02:08:00 -0800 (PST)
+Message-ID: <2012.01.24.privacy@notifications.google.com>
+Date: Sat, 28 Jan 2012 10:08:01 +0000
+Subject: Changes to Google Privacy Policy and Terms of Service
+From: Google <privacy-noreply@google.com>
+To: spam.iut@gmail.com
+Content-Type: multipart/alternative; boundary=f46d0447f0eade2c6f04b793c952
+
+--f46d0447f0eade2c6f04b793c952
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+Dear Google user,
+
+We're getting rid of over 60 different privacy policies across Google
+and replacing them with one that's a lot shorter and easier to read.
+Our new policy covers multiple products and features, reflecting our
+desire to create one beautifully simple and intuitive experience across
+Google.
+
+We believe this stuff matters, so please take a few minutes to read our
+updated Privacy Policy and Terms of Service at
+http://www.google.com/policies. These changes will take effect on
+March 1, 2012.
+
+One policy, one Google experience
+__________________________________________________________________
+
+Easy to work across Google
+
+Our new policy reflects a single product experience that does what you
+need, when you want it to. Whether you're reading an email that
+reminds you to schedule a family get-together or finding a favorite
+video that you want to share, we want to ensure you can move across
+Gmail, Calendar, Search, YouTube, or whatever your life calls for with
+ease.
+
+Tailored for you
+
+If you're signed into Google, we can do things like suggest search
+queries =96 or tailor your search results =96 based on the interests you've
+expressed in Google+, Gmail, and YouTube. We'll better understand which
+version of Pink or Jaguar you're searching for and get you those
+results faster.
+
+Easy to share and collaborate
+
+When you post or create a document online, you often want others to see
+and contribute. By remembering the contact information of the people
+you want to share with, we make it easy for you to share in any Google
+product or service with minimal clicks and errors.
+__________________________________________________________________
+
+Protecting your privacy hasn't changed
+
+Our goal is to provide you with as much transparency and choice as
+possible, through products like Google Dashboard and Ads Preferences
+Manager, alongside other tools. Our privacy principles remain
+unchanged. And we'll never sell your personal information or share it
+without your permission (other than rare circumstances like valid
+legal requests).
+
+Got questions? We've got answers.
+
+Visit our FAQ at http://www.google.com/policies/faq to read more
+about the changes. (We figured our users might have a question or
+twenty-two.)
+__________________________________________________________________
+
+Notice of Change
+
+March 1, 2012 is when the new Privacy Policy and Terms will come into
+effect. If you choose to keep using Google once the change occurs, you
+will be doing so under the new Privacy Policy and Terms of Service.
+
+Please do not reply to this email. Mail sent to this address cannot be
+answered. Also, never enter your Google Account password after
+following a link in an email or chat to an untrusted site. Instead, go
+directly to the site, such as mail.google.com or
+www.google.com/accounts. Google will never email you to ask for your
+password or other sensitive information.
+
+
+--f46d0447f0eade2c6f04b793c952
+Content-Type: text/html; charset=ISO-8859-1
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<title>Changes to Google Privacy Policy and Terms of Service</title>
+</head>
+
+<body text="#777" link="#1155cc">
+<font face="Arial,Helvetica,sans-serif" size="2">
+<table width="700" border="0" bordercolor="none">
+<tbody>
+
+<tr><td colspan="4" valign="top"></td>
+<td valign="top">
+<p style="line-height:14px;"><font size="1" color="#777">Is this email not displaying properly?<br>
+<a href="http://www.google.com/policies">View it in your browser.</a></font></p>
+</td></tr>
+
+
+<tr><td colspan="5" valign="top">
+<font color="#222">
+<p style="line-height:18px;">Dear Google user,</p>
+
+<p style="line-height:18px;">We're getting rid of over 60 different
+privacy policies across Google and replacing them with one that's a
+lot shorter and easier to read. Our new policy covers multiple
+products and features, reflecting our desire to create one beautifully
+simple and intuitive experience across Google.</p>
+
+<p style="line-height:18px;">We believe this stuff matters, so please
+take a few minutes to read our updated Privacy Policy and Terms of
+Service
+at <a href="http://www.google.com/policies">http://www.google.com/policies</a>. These
+changes will take effect on March 1, 2012.
+</p></font>
+<br>
+</td>
+</tr>
+<tr>
+<td colspan="5" height="40">
+<font size="4" color="#222">One policy, one Google experience</font>
+<hr noshade="noshade" size="1">
+</td>
+</tr>
+<tr>
+<td width="200"><img src="https://www.gstatic.com/policies/email/images/intl/en/products.png" width="200" height="113" alt="Easy to work across Google" vspace="16" border="1" style="border:1px solid #ccc;"></td>
+<td width="40"></td>
+<td width="200"><img src="https://www.gstatic.com/policies/email/images/intl/en/you.png" width="200" height="113" alt="Tailored for you" vspace="16" border="1" style="border:1px solid #ccc;"></td>
+<td width="40"></td>
+<td width="200"><img src="https://www.gstatic.com/policies/email/images/intl/en/share.png" width="200" height="113" alt="Easy to share and collaborate" vspace="16" border="1" style="border:1px solid #ccc;"></td>
+</tr>
+<tr>
+<td valign="top"><font size="3" color="#222">Easy to work across Google</font>
+<p style="line-height:18px;">Our new policy reflects a single product
+experience that does what you need, when you want it to. Whether you're reading an email that reminds you to schedule a family get-together or
+finding a favorite video that you want to share, we want to ensure you
+can move across Gmail, Calendar, Search, YouTube, or whatever your
+life calls for with ease.</p></td>
+<td width="40"></td>
+<td valign="top">
+<font size="3" color="#222">Tailored for you</font>
+<p style="line-height:18px;">If you're signed into Google, we can do
+things like suggest search queries &ndash; or tailor your search results &ndash;
+based on the interests you've expressed in Google+, Gmail, and
+YouTube. We'll better understand which version of Pink or Jaguar
+you're searching for and get you those results faster.</p></td>
+<td width="40"></td>
+<td valign="top">
+<font size="3" color="#222">Easy to share and collaborate</font>
+<p style="line-height:18px;">When you post or create a document
+online, you often want others to see and contribute. By remembering
+the contact information of the people you want to share with, we make
+it easy for you to share in any Google product or service with minimal
+clicks and errors.</p></td>
+</tr>
+<tr>
+<td colspan="5" height="40">
+<hr noshade="noshade" size="1">
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<font size="3" color="#222">Protecting your privacy hasn't changed</font>
+<p style="line-height:18px;">Our goal is to provide you with as much
+transparency and choice as possible, through products like Google Dashboard and Ads Preferences Manager, alongside other tools. Our
+privacy principles remain unchanged. And we'll never sell your
+personal information or share it without your permission (other than
+rare circumstances like valid legal requests). </p>
+
+</td>
+
+<td width="40"></td>
+
+<td valign="top">
+
+<font size="3" color="#222">Got questions?<br>
+We've got answers.</font>
+<p style="line-height:18px;">Visit our FAQ
+at <a href="http://www.google.com/policies/faq">http://www.google.com/policies/faq</a>
+to read more about the changes. (We figured our users might have a
+question or twenty-two.)</p>
+
+</td>
+
+<td width="40"></td>
+
+<td valign="top">
+
+<p> </p>
+
+</td>
+</tr>
+<tr>
+<td colspan="5" height="40">
+<hr noshade="noshade" size="1">
+</td>
+</tr>
+<tr><td colspan="5" valign="top">
+<font size="3" color="#222">Notice of Change</font>
+<p style="line-height:18px;">March 1, 2012 is when the new Privacy
+Policy and Terms will come into effect. If you choose to keep using
+Google once the change occurs, you will be doing so under the new
+Privacy Policy and Terms of Service.</p>
+<p style="line-height:18px;"><font size="1">Please do not reply to
+this email. Mail sent to this address cannot be answered. Also, never
+enter your Google Account password after following a link in an email
+or chat to an untrusted site. Instead, go directly to the site, such
+as mail.google.com or www.google.com/accounts. Google will never email
+you to ask for your password or other sensitive
+information.</font></p>
+</td></tr></tbody></table>
+</font>
+
+
+</body></html>
+
+--f46d0447f0eade2c6f04b793c952--
