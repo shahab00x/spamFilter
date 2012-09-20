@@ -1,2 +1,5 @@
 rocData
 test
+spamFilter/spam
+spamFilter/ham
+spamFilter/user
